@@ -5,9 +5,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
+  - name: Publications
     url: tags/
     weight: 20
-  - name: Uses
+  - name: Projects
     url: uses/
     weight: 30
+  - name: Awards
+    url: uses/
+    weight: 40
