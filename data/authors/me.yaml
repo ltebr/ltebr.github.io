@@ -2,10 +2,10 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 方路
+  display: Lu Fang
   given: Lu
   family: Fang
-  pronunciation: Fang Lu / 방로
+  pronunciation: 方路 / 방로
   pronouns: she/her
 status:
   icon: "☕️"
