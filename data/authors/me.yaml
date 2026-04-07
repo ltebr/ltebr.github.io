@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
+  display: 方路
+  given: Lu
+  family: Fang
+  pronunciation: Fang Lu / 방로
   pronouns: she/her
 status:
   icon: "☕️"
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+role: Ph.D. Candidate in the Department of Communication
+bio: Hey y'all👋I am a Ph.D. Candidate in the Department of Communication at Yonsei University, South Korea.
 affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Yonsei University
+    url: https://www.yonsei.ac.kr/
 links:
   - icon: at-symbol
     url: mailto:your-email@example.com
