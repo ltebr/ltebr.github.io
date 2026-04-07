@@ -6,11 +6,11 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: tags/
+    url: publications/
     weight: 20
   - name: Projects
-    url: uses/
+    url: projects/
     weight: 30
   - name: Awards
-    url: uses/
+    url: awards/
     weight: 40
