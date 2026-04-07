@@ -5,7 +5,7 @@ show_date: false
 reading_time: false
 design:
  background:
- color:'#f8fbf2'
+ color: #f8fbf2
  text_color_light: true
 
 ---
