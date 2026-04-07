@@ -7,13 +7,16 @@ name:
   family: Fang
   pronunciation: 方路 / 방로
   pronouns: she/her
+  
 status:
   icon: "☕️"
 role: Ph.D. Candidate in the Department of Communication
-bio: Hey y'all👋I am a Ph.D. Candidate in the Department of Communication at Yonsei University.
+bio: Hey y'all👋 I am a Ph.D. Candidate in the Department of Communication at Yonsei University.
+
 affiliations:
   - name: Yonsei University
     url: https://www.yonsei.ac.kr/
+
 links:
   - icon: at-symbol
     url: mailto:ltebr@yonsei.ac.kr
