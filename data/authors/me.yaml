@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: me
+slug: IMG_9237
 is_owner: true
 name:
   display: 方路
@@ -10,23 +10,18 @@ name:
 status:
   icon: "☕️"
 role: Ph.D. Candidate in the Department of Communication
-bio: Hey y'all👋I am a Ph.D. Candidate in the Department of Communication at Yonsei University, South Korea.
+bio: Hey y'all👋I am a Ph.D. Candidate in the Department of Communication at Yonsei University.
 affiliations:
   - name: Yonsei University
     url: https://www.yonsei.ac.kr/
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:ltebr@yonsei.ac.kr
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/MakeOwnable
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/ORCID
+    url: https://orcid.org/0000-0002-5548-0684
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
