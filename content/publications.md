@@ -3,6 +3,11 @@ title: Publications & Presentations
 date: 2026-04-08
 show_date: false
 reading_time: false
+design:
+ background:
+ color:'#f8fbf2'
+ text_color_light: true
+
 ---
 
 Writing, presenting, and thinking through platforms.
