@@ -59,6 +59,7 @@ hugoblox:
   typography:
     # Theme pack: name from data/fonts/
     pack: "academic"
+    display=swap
     weights:
      heading: [600, 700]
      body: [400, 500]
