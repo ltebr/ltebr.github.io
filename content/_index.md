@@ -11,26 +11,24 @@ sections:
       spacing:
         padding: ['6rem', 0, '12rem', 0]
       biography:
-        style: 'text-align: center; font-size: 0.8em;'
+        style: 'text-align: center; font-size: 0.8em'
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-- block: markdown
+  - block: markdown
     content:
       title: Research Interests
-      text: |
+      text: 
         My research focuses on how digital platforms shape social relationships and everyday life. 
         I am particularly interested in the ways platform use intersects with social environments, 
         including family, community, and broader cultural contexts.
     design:
       spacing:
         padding: [0, 0, '3rem', 0]
-      # 核心修改：使用 css_style 直接注入 CSS
-      css_style: "text-align: center;"
+      css_style: "text-align: center"
       style:
-        # 专门针对正文部分的字号调整
-        font_size: '0.8em'
+        font_size: '0.5em'
   - block: collection
     content:
       filters:
