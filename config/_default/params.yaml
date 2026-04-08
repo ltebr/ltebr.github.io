@@ -37,7 +37,7 @@ hugoblox:
     colors:
       primary: "#fffcfb"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: "#dbd7d3"
-      neutral: "#FFF2BF"                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      neutral: "#f9d503"                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -47,7 +47,7 @@ hugoblox:
       foreground: "#010004"
       header:
         background: "#fffcfb"
-        foreground: "#010004"
+        foreground: "#1b319f"
       footer:
         background: ""
         foreground: ""
