@@ -37,16 +37,16 @@ hugoblox:
     colors:
       primary: "#f8fbf2"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: "#2aace0"
-      neutral: "#dbd7d3"                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      neutral: "#2aace0"                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
       background: "#f8fbf2"
-      foreground: "#5a3ab6"
+      foreground: "#010004"
       header:
-        background: "#dbd7d3"
+        background: "#f8fbf2"
         foreground: "#010004"
       footer:
         background: ""
