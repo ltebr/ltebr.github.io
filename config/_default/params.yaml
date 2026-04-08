@@ -58,7 +58,20 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "humanist"
+    pack: "geometric"
+    families:
+     heading: "geometric"
+     body: "academic"
+    weights:
+     heading: [600, 700]
+     body: [400, 500]
+    leading:
+      heading: 1.2  
+      body: 1.6
+    tracking:
+      heading: "-0.02em"
+      body: "0"
+      caps: "0.05em"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
