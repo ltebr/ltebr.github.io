@@ -1,3 +1,4 @@
+---
 title: 'Home'
 date: 2026-04-07
 type: landing
