@@ -19,7 +19,7 @@ sections:
 - block: markdown
     content:
       title: Research Interests
-      text: |
+      text: 
         <div style="font-size: 0.8em; text-align: center;">
         My research focuses on how digital platforms shape social relationships and everyday life. 
         I am particularly interested in the ways platform use intersects with social environments, 
