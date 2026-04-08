@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: ['6rem', 0, '12rem', 0]
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: center; font-size: 0.8em;'
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -23,6 +23,7 @@ sections:
     design:
      spacing:
         padding: [0, 0, '3rem', 0]
+    style: 'text-align: center; font-size: 0.8em;'
   - block: collection
     content:
       filters:
