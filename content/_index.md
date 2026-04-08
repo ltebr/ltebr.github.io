@@ -9,7 +9,7 @@ sections:
       username: me
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['6rem', 0, '12rem', 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
       # Avatar customization
