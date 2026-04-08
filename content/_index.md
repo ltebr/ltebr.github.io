@@ -23,7 +23,8 @@ sections:
     design:
      spacing:
       padding: [0, 0, '3rem', 0]
-      style: 'text-align: center; font-size: 0.8em;'
+      text:
+       style: 'text-align: center; font-size: 0.8em;'
   - block: collection
     content:
       filters:
