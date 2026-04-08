@@ -19,16 +19,15 @@ sections:
 - block: markdown
     content:
       title: Research Interests
-      text: 
-        <div style="font-size: 0.8em; text-align: center;">
+      text: |
         My research focuses on how digital platforms shape social relationships and everyday life. 
         I am particularly interested in the ways platform use intersects with social environments, 
         including family, community, and broader cultural contexts.
-        </div>
     design:
       spacing:
         padding: [0, 0, '3rem', 0]
-      css_style: "text-align: center;"
+      # 统一在这里设置对齐和字号
+      css_style: "text-align: center; font-size: 0.8em !important;"
   - block: collection
     content:
       filters:
