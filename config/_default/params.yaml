@@ -58,7 +58,6 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "geometric"
     families:
      heading: "geometric"
      body: "academic"
