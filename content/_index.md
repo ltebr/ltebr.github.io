@@ -26,7 +26,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, '3rem', 0]
-      css_style: "text-align: center; font-size: 0.3em !important;"
+      css_style: "text-align: center; font-size: 0.8em !important;"
   - block: collection
     content:
       filters:
