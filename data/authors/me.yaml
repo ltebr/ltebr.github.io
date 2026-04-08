@@ -19,6 +19,7 @@ affiliations:
 
 links:
   - icon: at-symbol
+    size: sm
     url: mailto:ltebr@yonsei.ac.kr
     label: E-mail Me
   - icon: brands/ORCID
