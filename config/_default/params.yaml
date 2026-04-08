@@ -35,19 +35,19 @@ hugoblox:
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     # Optional: Override theme pack colors
     colors:
-      primary: "#fffcfb"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "#dbd7d3"
-      neutral: "#f9d503"                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#2c1f1e"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "#fffdf8"
+      neutral: "#4b67f2"                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: "#fffcfb"
-      foreground: "#010004"
+      background: "#2c1f1e"
+      foreground: "#fffdf8"
       header:
-        background: "#fffcfb"
-        foreground: "#1b319f"
+        background: "#2c1f1e"
+        foreground: "#212a53"
       footer:
         background: ""
         foreground: ""
