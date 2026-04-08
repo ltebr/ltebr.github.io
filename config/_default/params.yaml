@@ -32,9 +32,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
     # Optional: Override theme pack colors
     colors:
       primary: "#f8fbf2"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
@@ -45,11 +43,11 @@ hugoblox:
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#f8fbf2"
+      foreground: "#5a3ab6"
       header:
-        background: ""
-        foreground: ""
+        background: "#dbd7d3"
+        foreground: "#010004"
       footer:
         background: ""
         foreground: ""
@@ -68,7 +66,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   layout:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
+    radius: "full"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "comfortable"
     # Avatar shape in author profiles
