@@ -29,3 +29,6 @@ links:
     size: sm
     url: uploads/resume.pdf
     label: Download my resume
+design:
+      spacing:
+        padding: ['3rem', 0, '3rem', 0]
