@@ -22,10 +22,10 @@ links:
     size: sm
     url: mailto:ltebr@yonsei.ac.kr
     label: E-mail Me
-  - icon: brands/ORCID
+  - icon: academicons/orcid​
+    size: sm
     url: https://orcid.org/0000-0002-5548-0684
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/cv
+    size: sm
     url: uploads/resume.pdf
     label: Download my resume
