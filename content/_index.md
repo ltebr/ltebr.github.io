@@ -16,19 +16,19 @@ sections:
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+- block: markdown
     content:
       title: Research Interests
-      text: 
+      text: |
+        <div style="font-size: 0.8em; text-align: center;">
         My research focuses on how digital platforms shape social relationships and everyday life. 
         I am particularly interested in the ways platform use intersects with social environments, 
         including family, community, and broader cultural contexts.
+        </div>
     design:
       spacing:
         padding: [0, 0, '3rem', 0]
-      css_style: "text-align: center"
-      style:
-        font_size: '0.5em'
+      css_style: "text-align: center;"
   - block: collection
     content:
       filters:
