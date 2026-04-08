@@ -58,8 +58,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
-    display=swap
+    pack: "modern"
     weights:
      heading: [600, 700]
      body: [400, 500]
