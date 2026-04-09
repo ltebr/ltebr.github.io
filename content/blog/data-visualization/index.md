@@ -1,5 +1,5 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
+title: 📍 Location-based community
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
