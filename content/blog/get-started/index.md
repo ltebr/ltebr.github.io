@@ -1,5 +1,5 @@
 ---
-title: Media Platforms🌐
+title: 🌐 Media Platforms
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2026-04-09
 
