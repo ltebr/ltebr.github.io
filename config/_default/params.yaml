@@ -47,7 +47,7 @@ hugoblox:
       foreground: "#010004"
       header:
         background: "#fffcfb"
-        foreground: "#212a53"
+        foreground: "#1b319f"
       footer:
         background: ""
         foreground: ""
