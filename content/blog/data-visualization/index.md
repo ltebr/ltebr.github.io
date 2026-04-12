@@ -1,5 +1,5 @@
 ---
-title: 📍 Location-based community
+title: 📍 Hyper-local community
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
