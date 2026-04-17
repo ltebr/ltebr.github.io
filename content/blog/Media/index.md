@@ -1,6 +1,6 @@
 ---
 title: 🌐 Media Platforms
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: My research broadly focuses on media platforms and their role in shaping communication practices and social interactions.
 date: 2026-04-12
 cover:
   image: "cover.jpg"      # Optional if using auto-detection
