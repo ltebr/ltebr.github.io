@@ -20,3 +20,4 @@ tags:
 {{< toc mobile_only=true is_open=true >}}
 
 ## Fandom
+I'm particularly interested in fandom activities on social media and how fans engage, interact, and express themselves in online spaces.
