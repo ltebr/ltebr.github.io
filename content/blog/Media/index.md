@@ -7,7 +7,7 @@ cover:
   style: "gradient"       # gradient | glass | blur | default
   position:
     x: 50                 # Focus point X (0-100%)
-    y: 500                 # Focus point Y (0-100%)
+    y: 50                 # Focus point Y (0-100%)
     
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
