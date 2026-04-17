@@ -2,7 +2,13 @@
 title: 🌐 Media Platforms
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2026-04-12
-
+cover:
+  image: "cover.jpg"      # Optional if using auto-detection
+  style: "gradient"       # gradient | glass | blur | default
+  position:
+    x: 100                 # Focus point X (0-100%)
+    y: 100                 # Focus point Y (0-100%)
+    
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
