@@ -6,8 +6,8 @@ cover:
   image: "cover.jpg"      # Optional if using auto-detection
   style: "gradient"       # gradient | glass | blur | default
   position:
-    x: 100                 # Focus point X (0-100%)
-    y: 100                 # Focus point Y (0-100%)
+    x: 50                 # Focus point X (0-100%)
+    y: 500                 # Focus point Y (0-100%)
     
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
