@@ -1,6 +1,6 @@
 ---
 title: 🎉 Fandom
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: I'm particularly interested in fandom activities on social media and how fans engage, interact, and express themselves in online spaces.
 date: 2026-04-12
 
 # Featured image
@@ -16,8 +16,6 @@ tags:
   - Hugo Blox
   - Markdown
 ---
-
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
