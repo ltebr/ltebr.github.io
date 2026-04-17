@@ -26,3 +26,4 @@ tags:
 {{< toc mobile_only=true is_open=true >}}
 
 ## Media Platforms
+My research broadly focuses on media platforms and their role in shaping communication practices and social interactions.
