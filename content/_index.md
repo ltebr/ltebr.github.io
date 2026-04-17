@@ -20,9 +20,8 @@ sections:
     content:
       title: Research Interests
       text: 
-        My research focuses on how digital platforms shape social relationships and everyday life. 
-        I am particularly interested in the ways platform use intersects with social environments, 
-        including family, community, and broader cultural contexts.
+        My research broadly focuses on media platforms and their role in shaping communication and social interaction, with a particular interest in media dependency in everyday life. Within this, I am especially interested in fandom activities on social media and in hyper-local communities, examining how people engage, interact, and build relationships across digital and immediate social contexts.
+
     design:
       spacing:
         padding: [0, 0, '3rem', 0]
