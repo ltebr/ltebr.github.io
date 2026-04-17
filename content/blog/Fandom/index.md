@@ -21,4 +21,4 @@ Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## What is fandom?
+## Fandom
