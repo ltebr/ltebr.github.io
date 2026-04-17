@@ -1,7 +1,7 @@
 ---
 title: 🗺️ Hyper-local community
 summary: My research also explores hyper-local communities, focusing on how individuals engage and form social ties within their immediate surroundings.
-date: 2026-04-10
+date: 2026-04-11
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
