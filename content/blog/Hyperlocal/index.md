@@ -1,6 +1,6 @@
 ---
 title: 🗺️ Hyper-local community
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: My research also explores hyper-local communities, focusing on how individuals engage and form social ties within their immediate surroundings.
 date: 2026-04-10
 
 # Featured image
@@ -16,8 +16,6 @@ tags:
   - Hugo Blox
   - Markdown
 ---
-
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
