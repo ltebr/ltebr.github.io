@@ -20,3 +20,4 @@ tags:
 {{< toc mobile_only=true is_open=true >}}
 
 ## Hyper-local Community
+My research also explores hyper-local communities, focusing on how individuals engage and form social ties within their immediate surroundings.
