@@ -18,7 +18,7 @@ These works trace my ongoing inquiry into media platforms, local communities, an
 
 ## Publications
 
-- 편미란 & 방로. (2026, Forthcoming). 고령층은 누구인가?: 미디어 커뮤니케이션 분야 고령층 대상 연구 체계적 문헌 고찰. 언론과학연구, 제26권 1호.
+- 편미란 & 방로. (2026). 고령층은 누구인가?: 미디어 커뮤니케이션 분야 고령층 대상 연구 체계적 문헌 고찰. 언론과학연구, 제26권 1호.
 - Pyun, M., Fang, L., & Pi, Y. (2024). The Relationship Between K-Pop Fandom Activities on Social Media Platform and Cultural Openness: Attitudes Toward the K-Wave as a Mediator. Asian Communication Research, 21(3), 346-365.
 - Kim, Y.-C., Pyun, M., Shin, H., & Fang, L. (2024). Local familiar strangers in digitalising urban neighbourhoods in Seoul. Urban Studies, 61(16), 3211-3231.
 - 신혜진, 편미란, 피연진, 윤소희, 방로, & 김용찬. (2022). 코로나 19 팬데믹과 노인의 도시 디지털화 경험. 한국언론학보, 66(4), 219-265.
